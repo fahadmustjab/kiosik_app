@@ -1,0 +1,18 @@
+{
+    "images": [
+      "assets/images/image1.png",
+      "assets/images/image2.jpg",
+      "assets/images/image3.jpg"
+    ],
+    "carouselOptions": {
+      "viewportFraction": 1.0,
+      "enableInfiniteScroll": true,
+      "autoPlay": true,
+      "autoPlayInterval": 5000,
+      "autoPlayAnimationDuration": 800,
+      "autoPlayCurve": "easeInOut"
+    }, 
+    "playVideoBackground": false,
+    "button_timer":5
+
+  }
